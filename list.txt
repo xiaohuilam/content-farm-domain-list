@@ -65,6 +65,7 @@
 51wangpan.top
 52-so.com
 520bdy.com
+520csol.net.nerdydata.com
 520so.cc
 52wenmi.com
 52yiyi.cc
@@ -81,6 +82,7 @@
 600496.com.cn
 6040.cc
 60lw.com
+63kf.com
 64so.com
 661x.com
 68idc.cn
@@ -144,7 +146,7 @@ babaofan.com
 baidu.com-jn.hospital120.net
 baidu.com.cloud.search.hnqlx.com
 baidu.com.jinanwanhou.com
-zhulhua.com.cn
+baidu.com.s.2fjc5sedmhi5enihkmsurq7smzl5kzvwx2aehaa8ollo7miojqwlkkzobt0w2.e6b885e5bfae899d.zhulhua.com.cn
 baidu.com.se
 baidu.ee
 baidu.fileso.com
@@ -181,6 +183,7 @@ c.biancheng.net
 carlebaby.com
 cashibu.com
 cbyts.cn
+ccailide.com
 ccsoftspace.cn
 cfied.cn
 cha.dehuifu.com
@@ -219,6 +222,7 @@ dainifei.info
 dajia918.com
 daolibai.cn
 dasheyin.com.nerdydata.com
+dayi114.cn
 dayun123.com
 devexception.com
 dileer.com
@@ -239,9 +243,11 @@ duyidu.com
 dy1991.com
 dzc4.com
 eabe.cn
+easywin7.com
 egxxu.cn
 ejoyi.com
 ekpai.com
+enjoyclick.org
 eooele.com
 eqisou.net
 express.ruanko.com
@@ -254,6 +260,7 @@ faceye.net
 fan-pin.com
 fanli7.net
 fastso.cn
+fb.taiyangxiwang.cn
 feakf.cn
 feed.hjue.me
 fengmishijie.com
@@ -291,6 +298,7 @@ google.wotaimei.com
 gouo.cn
 gretikaow002.blog.com
 gslipai.cn
+guangzhou.studioraena.com
 gudll.com
 gufen.haoii123.com
 gufen138.com
@@ -300,8 +308,10 @@ gugel.cn
 guiquanz.me
 gukong.com
 gupcn.com
+guweiye.cn
 gzcjzx.net
 half-price.cc
+handuyishebuy10257706105.07934.asia
 hang12.com
 hanqiuxue20140227d.kaacc.net
 hao123.0554.us
@@ -340,6 +350,7 @@ image.haosou.com
 ios.pianshen.com
 ipgea.net
 isuzhi.org
+it.taocms.org
 it.uedbetvip.cc
 it.zhaozhao.info
 it165.net
@@ -366,6 +377,8 @@ jegqin.cn
 jfocus.net
 jhxdr.cn
 jiancool.com
+jiangsu.68um.com
+jianpan.nylon-backpack.com
 jiariwo.com
 jimengli.com
 jingqumy.com
@@ -381,6 +394,7 @@ ju.outofmemory.cn
 junbqiang.com
 juziso.com
 jxweboo.com
+jyjsm.cn
 jz5u.com
 jzhrb.com.cn
 kafan.cn
@@ -503,6 +517,8 @@ phsou.com
 pihen.cn
 pk898.net
 pla8.com
+plu.cn
+plujixiejianpanml-g3000.yybjp.asia
 pmsou.com
 popular8.com
 ppp.idongnong.com
@@ -520,6 +536,7 @@ qqso.soem.cn
 qtth.com
 qubaidu.cn
 qubian.cn
+queqiaoba.com
 quweiji.com
 rain-clear.com
 rayfile.com
@@ -539,6 +556,7 @@ s.woso.cn
 s.yixueziyuan.com
 s900f.com
 samsung.gaojiquan.com.cn
+schwrc.com
 sdbeta.com
 se8.me
 search.isoftlink.com
@@ -637,6 +655,7 @@ soshow.com
 soso.io
 soso.mu
 soso.suduw.cn
+sosowenwen.com
 sosuow.com
 sou.jinpaiyun.com
 sou.lzyjf.com
@@ -662,6 +681,7 @@ suso.ren
 susoba.com
 susuzhi.com
 suusoo.com
+szomg.com
 tamabc.com
 tanginns.com
 tangqiang.org
@@ -695,6 +715,7 @@ uucan.cn
 uusousuo.com
 uzzf.com
 v-kaifu.sf120.top
+v.qukan.cc
 verydemo.com
 veryhuo.com
 verypan.com
@@ -770,6 +791,7 @@ yzcn.in
 z7z8m.hw100.net
 zanlele.com
 zdsou.com
+zgmen.cn
 zgxdx.com
 zhainvshu.org
 zhangkong.so
@@ -795,4 +817,6 @@ zonghe.17xie.com
 zx1234.cn
 zy669.com
 zybzyb1.blog.163.com
+zyg365.com
 zzbai.org
+
